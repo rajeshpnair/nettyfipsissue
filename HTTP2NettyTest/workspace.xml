@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="04275c2a-1f5c-4405-9ad3-ef41c6357396" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/git/ium-3rdparty/.m2/repository/io/netty/netty-handler/4.1.89.Final/netty-handler-4.1.89.Final-sources.jar!/io/netty/handler/ssl/BouncyCastleAlpnSslEngine.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$USER_HOME$/git/ium-3rdparty/.m2/repository/io/netty/netty-handler/4.1.89.Final/netty-handler-4.1.89.Final-sources.jar!/io/netty/handler/ssl/BouncyCastleAlpnSslUtils.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$USER_HOME$/git/ium-3rdparty/.m2/repository/io/netty/netty-handler/4.1.89.Final/netty-handler-4.1.89.Final-sources.jar!/io/netty/handler/ssl/JdkAlpnApplicationProtocolNegotiator.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$USER_HOME$/git/ium-3rdparty/.m2/repository/io/netty/netty-handler/4.1.89.Final/netty-handler-4.1.89.Final-sources.jar!/io/netty/handler/ssl/JdkAlpnSslUtils.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$USER_HOME$/git/ium-3rdparty/.m2/repository/io/netty/netty-handler/4.1.89.Final/netty-handler-4.1.89.Final-sources.jar!/io/netty/handler/ssl/JdkBaseApplicationProtocolNegotiator.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$USER_HOME$/git/ium-3rdparty/.m2/repository/io/netty/netty-handler/4.1.89.Final/netty-handler-4.1.89.Final-sources.jar!/io/netty/handler/ssl/JdkSslContext.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$USER_HOME$/git/ium-3rdparty/.m2/repository/org/bouncycastle/bctls-fips/1.0.13/bctls-fips-1.0.13-sources.jar!/org/bouncycastle/jsse/provider/ProvSSLEngine.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$USER_HOME$/git/ium-3rdparty/.m2/repository/org/bouncycastle/bctls-fips/1.0.13/bctls-fips-1.0.13-sources.jar!/org/bouncycastle/jsse/provider/ProvSSLParameters.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$USER_HOME$/git/ium-3rdparty/.m2/repository/org/bouncycastle/bctls-fips/1.0.13/bctls-fips-1.0.13-sources.jar!/org/bouncycastle/jsse/provider/SSLParametersUtil.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MRrBu1dwapO76b12CWqoptaUbO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/nairraje/git/ium-3rdparty/.m2/repository/io/netty/netty-handler/4.1.86.Final/netty-handler-4.1.86.Final-sources.jar&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Http2Client">
+    <configuration name="Http2Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.netty.example.http2.helloworld.client.Http2Client" />
+      <module name="HTTP2NettyTest1" />
+      <option name="VM_PARAMETERS" value="-Djavax.net.debug=all" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.netty.example.http2.helloworld.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Http2Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.netty.example.http2.helloworld.server.Http2Server" />
+      <module name="HTTP2NettyTest1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.netty.example.http2.helloworld.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Http2Client" />
+        <item itemvalue="Application.Http2Server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04275c2a-1f5c-4405-9ad3-ef41c6357396" name="Changes" comment="" />
+      <created>1677741113055</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677741113055</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/io/netty/example/http2/helloworld/common/Http2Util.java</url>
+          <line>118</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/git/ium-3rdparty/.m2/repository/org/bouncycastle/bctls-fips/1.0.13/bctls-fips-1.0.13-sources.jar!/org/bouncycastle/jsse/provider/SSLEngineUtil.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/git/ium-3rdparty/.m2/repository/org/bouncycastle/bctls-fips/1.0.13/bctls-fips-1.0.13-sources.jar!/org/bouncycastle/jsse/provider/SSLEngineUtil.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/git/ium-3rdparty/.m2/repository/org/bouncycastle/bctls-fips/1.0.13/bctls-fips-1.0.13-sources.jar!/org/bouncycastle/jsse/provider/SSLEngineUtil.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/git/ium-3rdparty/.m2/repository/org/bouncycastle/bctls-fips/1.0.13/bctls-fips-1.0.13-sources.jar!/org/bouncycastle/jsse/provider/ProvSSLEngine.java</url>
+          <line>400</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/git/ium-3rdparty/.m2/repository/org/bouncycastle/bctls-fips/1.0.13/bctls-fips-1.0.13-sources.jar!/org/bouncycastle/jsse/provider/ProvSSLEngine_8.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/git/ium-3rdparty/.m2/repository/org/bouncycastle/bctls-fips/1.0.13/bctls-fips-1.0.13-sources.jar!/org/bouncycastle/jsse/provider/ProvSSLEngine.java</url>
+          <line>433</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/git/ium-3rdparty/.m2/repository/org/bouncycastle/bctls-fips/1.0.13/bctls-fips-1.0.13-sources.jar!/org/bouncycastle/jsse/provider/BouncyCastleJsseProvider.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/git/ium-3rdparty/.m2/repository/org/bouncycastle/bctls-fips/1.0.13/bctls-fips-1.0.13-sources.jar!/org/bouncycastle/jsse/provider/ProvTlsClientProtocol.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/git/ium-3rdparty/.m2/repository/org/bouncycastle/bctls-fips/1.0.13/bctls-fips-1.0.13-sources.jar!/org/bouncycastle/tls/TlsClientProtocol.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/git/ium-3rdparty/.m2/repository/io/netty/netty-handler/4.1.86.Final/netty-handler-4.1.86.Final.jar!/io/netty/handler/ssl/BouncyCastleAlpnSslEngine.class</url>
+          <line>20</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/git/ium-3rdparty/.m2/repository/io/netty/netty-handler/4.1.86.Final/netty-handler-4.1.86.Final.jar!/io/netty/handler/ssl/BouncyCastleAlpnSslEngine.class</url>
+          <line>30</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/git/ium-3rdparty/.m2/repository/io/netty/netty-handler/4.1.86.Final/netty-handler-4.1.86.Final.jar!/io/netty/handler/ssl/BouncyCastleAlpnSslUtils.class</url>
+          <line>79</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/git/ium-3rdparty/.m2/repository/org/bouncycastle/bctls-fips/1.0.13/bctls-fips-1.0.13-sources.jar!/org/bouncycastle/tls/ClientHello.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/git/ium-3rdparty/.m2/repository/org/bouncycastle/bctls-fips/1.0.13/bctls-fips-1.0.13-sources.jar!/org/bouncycastle/tls/ClientHello.java</url>
+          <line>105</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/git/ium-3rdparty/.m2/repository/org/bouncycastle/bctls-fips/1.0.13/bctls-fips-1.0.13-sources.jar!/org/bouncycastle/tls/AbstractTlsClient.java</url>
+          <line>250</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/git/ium-3rdparty/.m2/repository/org/bouncycastle/bctls-fips/1.0.13/bctls-fips-1.0.13-sources.jar!/org/bouncycastle/tls/TlsExtensionsUtils.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/git/ium-3rdparty/.m2/repository/org/bouncycastle/bctls-fips/1.0.13/bctls-fips-1.0.13-sources.jar!/org/bouncycastle/jsse/provider/ProvTlsClient.java</url>
+          <line>133</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/git/ium-3rdparty/.m2/repository/org/bouncycastle/bctls-fips/1.0.13/bctls-fips-1.0.13-sources.jar!/org/bouncycastle/jsse/provider/ProvSSLParameters.java</url>
+          <line>223</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/git/ium-3rdparty/.m2/repository/org/bouncycastle/bctls-fips/1.0.13/bctls-fips-1.0.13-sources.jar!/org/bouncycastle/jsse/provider/ProvSSLParameters.java</url>
+          <line>228</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/git/ium-3rdparty/.m2/repository/io/netty/netty-handler/4.1.86.Final/netty-handler-4.1.86.Final.jar!/io/netty/handler/ssl/JdkAlpnSslUtils.class</url>
+          <line>63</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/git/ium-3rdparty/.m2/repository/io/netty/netty-handler/4.1.86.Final/netty-handler-4.1.86.Final.jar!/io/netty/handler/ssl/JdkAlpnSslUtils.class</url>
+          <line>119</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/git/ium-3rdparty/.m2/repository/io/netty/netty-handler/4.1.86.Final/netty-handler-4.1.86.Final.jar!/io/netty/handler/ssl/BouncyCastleAlpnSslUtils.class</url>
+          <line>64</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/git/ium-3rdparty/.m2/repository/io/netty/netty-handler/4.1.86.Final/netty-handler-4.1.86.Final.jar!/io/netty/handler/ssl/JdkSslContext.class</url>
+          <line>224</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/git/ium-3rdparty/.m2/repository/io/netty/netty-handler/4.1.86.Final/netty-handler-4.1.86.Final.jar!/io/netty/handler/ssl/JdkAlpnApplicationProtocolNegotiator.class</url>
+          <line>25</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/git/ium-3rdparty/.m2/repository/io/netty/netty-handler/4.1.86.Final/netty-handler-4.1.86.Final.jar!/io/netty/handler/ssl/JdkBaseApplicationProtocolNegotiator.class</url>
+          <line>57</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/io/netty/example/http2/helloworld/common/Http2Util.java</url>
+          <line>101</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/git/ium-3rdparty/3rdParty/jdk11.0.16/lib/src.zip!/java.base/javax/net/ssl/SSLParameters.java</url>
+          <line>663</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/git/ium-3rdparty/.m2/repository/io/netty/netty-handler/4.1.89.Final/netty-handler-4.1.89.Final-sources.jar!/io/netty/handler/ssl/BouncyCastleAlpnSslUtils.java</url>
+          <line>195</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>jar://$USER_HOME$/git/ium-3rdparty/.m2/repository/org/bouncycastle/bctls-fips/1.0.13/bctls-fips-1.0.13-sources.jar!/org/bouncycastle/jsse/provider/BouncyCastleJsseProvider.java</url>
+          <line>23</line>
+          <properties field="PROVIDER_NAME" class="org.bouncycastle.jsse.provider.BouncyCastleJsseProvider" />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
